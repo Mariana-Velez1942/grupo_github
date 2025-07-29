@@ -3,6 +3,17 @@
     padding: 0;
 }
 
+
+body{
+    background-color: #d6bdf7;
+
+}
+
+
+article{
+    text-align: center;
+}
+
 .contenedor{
     width: 400px;
     height: 400px;
